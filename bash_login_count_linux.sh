@@ -4,7 +4,7 @@
 # using the LAST command, sorted by user in alphabetical order.
 
 # Author: Marcelo Monteiro da Silva
-# Lab Interview: Net2Phone Canada
+# Lab Interview
 # Date: 22/09/2021
 # Version: 1.0
 

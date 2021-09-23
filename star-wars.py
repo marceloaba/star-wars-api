@@ -4,7 +4,7 @@ This program loads data from the Star Wars API to fulfil the following code chal
 pilots associated with that vehicle, plus a list of vehicle names with no associated pilot."
 
 Author: Marcelo Monteiro da Silva
-JobInterview: Net2Phone Canada
+Lab Interview
 Date: 22/09/2021
 Version: 1.0
 """
